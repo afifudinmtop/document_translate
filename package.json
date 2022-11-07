@@ -1,0 +1,27 @@
+{
+  "name": "document_translate",
+  "version": "1.0.0",
+  "description": "translate document(.docx) using web scrap google translate",
+  "homepage": "https://github.com/afifudinmtop/document_translate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "translate",
+    "microsoft office word",
+    "document",
+    "web scrap",
+    "google translate"
+  ],
+  "author": "Afifudin Ma'arif",
+  "license": "MIT",
+  "dependencies": {
+    "mammoth": "^1.5.1",
+    "puppeteer": "^19.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afifudinmtop/document_translate.git"
+  }
+}
